@@ -13,7 +13,6 @@
   总体通过一个C++工程调度 可以并行调用shell命令和Python脚本
   
   Dos界面聊天室 
-  
   ![img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/test2.qzyddyvjeg0.webp)
   
   ![img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/chatgpt.2ypvv3gr9lw0.webp)
@@ -24,7 +23,7 @@
   
   在聊天室进程进行途中，后台并行调用一些图像处理的Python脚本
   
-  [!img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/test1.34sh3uo812q0.webp)
+  ![img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/test1.34sh3uo812q0.webp)
   
 ### Part 2
   突然黑屏，灯光熄灭
@@ -38,8 +37,10 @@
 ### 灯光方面
   灯光的闪烁会和视频中的频闪相对接
   
-  [!img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/end.4taslhmqyaw0.webp)
+  ![img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/end.4taslhmqyaw0.webp)
   
   目前用Arduino和LED灯带效果较为糟糕
   
   后续如需完善，会和戏剧影视学院光环境同学的同学进行联合创作
+  
+  
