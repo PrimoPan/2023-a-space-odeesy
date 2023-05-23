@@ -41,6 +41,6 @@
   
   后续如需完善，会和戏剧影视学院光环境同学的同学进行联合创作
   
-    ![img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/end.4taslhmqyaw0.webp)
+![img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/end.4taslhmqyaw0.webp)
   
   
