@@ -25,6 +25,8 @@
   
   ![img](https://cdn.staticaly.com/gh/PrimoPan/picx-images-hosting@master/20230523/test1.34sh3uo812q0.webp)
   
+  5月10日Google I/O大会提供了大量的更新，包括Mediapipe的大幅度增强，后期在CV处理上会加更多效果
+  
 ### Part 2
   突然黑屏，灯光熄灭
   
